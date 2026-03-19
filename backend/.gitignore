@@ -1,0 +1,16 @@
+.env
+# Dependency folders
+node_modules/
+jspm_packages/
+
+# Env files (Bảo mật)
+.env.local
+
+# Expo/Mobile
+.expo/
+dist/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
